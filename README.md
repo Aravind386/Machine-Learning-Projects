@@ -12,4 +12,7 @@
 
 **K Means**
 
+**SVM**
+
+**Naive Bayes**
 
